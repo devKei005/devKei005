@@ -47,7 +47,7 @@ Soy estudiante de Analista de Sistemas en el Instituto Da Vinci.
 ### 📈 Gráfico de contribuciones
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devKei005&bg_color=00000000&color=f792c8&line=f792c8&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devKei005&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ---
