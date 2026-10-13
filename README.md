@@ -44,9 +44,6 @@ Soy estudiante de Analista de Sistemas en el Instituto Da Vinci.
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=devKei005&layout=compact&theme=tokyonight&title_color=f792c8&icon_color=f792c8&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Gráfico de contribuciones
-[![Gráfico de contribuciones de Kei](https://github-readme-activity-graph.herokuapp.com/graph?username=devKei005&theme=react-dark&hide_border=true&area=true)](https://github.com/devKei005)
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/devKei005">devKei005</a></i>
 
