@@ -45,7 +45,7 @@ Soy estudiante de Analista de Sistemas en el Instituto Da Vinci.
 </p>
 
 ### 📈 Gráfico de contribuciones
-![Kei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devKei005&show_icons=true&theme=radical)
+[![Gráfico de contribuciones de Kei](https://github-readme-activity-graph.vercel.app/graph?username=devKei005&theme=react-dark&hide_border=true&area=true)](https://github.com/devKei005)
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/devKei005">devKei005</a></i>
